@@ -15,10 +15,15 @@ Prazer, Gabriel Castedo!
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+  
+  
+  
 - 💻 Estudo na na Kenzie Academy para ser Full-Stack 
 - 🌱 <strong>HTML5, CSS3, JavaScript</strong> 
 
 
+  
+  
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Gabriel Castedo](https://img.shields.io/badge/-GABRIEL_CASTEDO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-castedo-38145b53/)](https://www.linkedin.com/in/gabriel-castedo-38145b53/)
