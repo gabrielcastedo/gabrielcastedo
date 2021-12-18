@@ -18,6 +18,6 @@ Prazer, Gabriel Castedo!
 </div>
 
 - 💻 Estudo na na Kenzie Academy para ser Full-Stack 
-- 🌱 Estou aprendendo HTML5, CSS3, JavaScript 
+- 🌱 <strong>HTML5, CSS3, JavaScript</strong> 
 
 
