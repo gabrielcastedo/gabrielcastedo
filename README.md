@@ -17,9 +17,9 @@ Prazer, Gabriel Castedo!
 
   
   
-  
+<!--   
 - 💻 Estudo na na Kenzie Academy para ser Full-Stack 
-- 🌱 <strong>HTML5, CSS3, JavaScript</strong> 
+- 🌱 <strong>HTML5, CSS3, JavaScript</strong>  -->
 
 
   
