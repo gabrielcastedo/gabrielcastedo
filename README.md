@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/gabrielcastedo">
-  <img height="150em" width="1500" src="https://github-readme-stats.vercel.app/api?username=gabrielcastedo&theme=calm&show_icons=true"/>
-  <img height="150em" width="1000"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcastedo&layout=compact&langs_count=7&theme=calm"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=gabrielcastedo&theme=calm&show_icons=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcastedo&layout=compact&langs_count=7&theme=calm"/>
 </div>
   
 <div>
@@ -17,9 +17,9 @@
 
   
   
-<!--   
+  
 - 💻 Estudo na na Kenzie Academy para ser Full-Stack 
-- 🌱 <strong>HTML5, CSS3, JavaScript</strong>  -->
+- 🌱 <strong>HTML5, CSS3, JavaScript</strong> 
 
 
   
