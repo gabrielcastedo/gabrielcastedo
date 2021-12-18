@@ -25,5 +25,5 @@ Prazer, Gabriel Castedo!
 
 [![Linkedin: Gabriel Castedo](https://img.shields.io/badge/-gabrielcastedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-castedo-38145b53](https://www.linkedin.com/in/gabriel-castedo-38145b53)
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.castedo1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.castedo1@gmail.com)](mailto:gabriel.castedo1@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub Gabriel Castedo]( https://img.shields.io/github/followers/gabrielcastedo?label=follow&style=social)](https://github.com/gabrielcastedo#)
 
