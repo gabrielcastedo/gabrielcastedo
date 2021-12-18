@@ -2,8 +2,8 @@ Prazer, Gabriel Castedo!
 
 <div align="center">
   <a href="https://github.com/gabrielcastedo">
-  <img height="150em" width="1500em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
-  <img height="150em" width="1500em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcastedo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" width="1500em" src="https://github-readme-stats.vercel.app/api?username=gabrielcastedo&theme=calm&show_icons=true"/>
+  <img height="150em" width="1500em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcastedo&layout=compact&langs_count=7&theme=calm"/>
 </div>
   
 <div>
