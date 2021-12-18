@@ -23,7 +23,7 @@ Prazer, Gabriel Castedo!
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Gabriel Castedo](https://img.shields.io/badge/-GABRIEL_CASTEDO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: Gabriel Castedo](https://img.shields.io/badge/-GABRIEL_CASTEDO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-castedo-38145b53/)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.castedo1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.castedo1@gmail.com)](mailto:gabriel.castedo1@gmail.com)
 [![GitHub Gabriel Castedo]( https://img.shields.io/github/followers/gabrielcastedo?label=follow&style=social)](https://github.com/gabrielcastedo#)
 
