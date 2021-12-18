@@ -1,5 +1,11 @@
 <h1 align= "center">  Prazer, Gabriel Castedo! 🐻 </h1>
 
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Gabriel Castedo](https://img.shields.io/badge/-GABRIEL_CASTEDO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-castedo-38145b53/)](https://www.linkedin.com/in/gabriel-castedo-38145b53/)
+[![Gmail Badge](https://img.shields.io/badge/-gabriel.castedo1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.castedo1@gmail.com)](mailto:gabriel.castedo1@gmail.com)
+[![GitHub Gabriel Castedo]( https://img.shields.io/github/followers/gabrielcastedo?label=follow&style=social)](https://github.com/gabrielcastedo#)
+
 <div align="center">
   <a href="https://github.com/gabrielcastedo">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=gabrielcastedo&theme=calm&show_icons=true"/>
@@ -15,18 +21,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+   
   
-  
-  
-- 💻 Estudo na na Kenzie Academy para ser Full-Stack 
-- 🌱 <strong>HTML5, CSS3, JavaScript</strong> 
 
-
-  
-  
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Gabriel Castedo](https://img.shields.io/badge/-GABRIEL_CASTEDO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-castedo-38145b53/)](https://www.linkedin.com/in/gabriel-castedo-38145b53/)
-[![Gmail Badge](https://img.shields.io/badge/-gabriel.castedo1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.castedo1@gmail.com)](mailto:gabriel.castedo1@gmail.com)
-[![GitHub Gabriel Castedo]( https://img.shields.io/github/followers/gabrielcastedo?label=follow&style=social)](https://github.com/gabrielcastedo#)
 
