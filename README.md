@@ -3,9 +3,9 @@
 
 <div align="center">
   <a href="https://github.com/gabrielcastedo">
-  <img height="100%" width = "45%" src="https://github-readme-stats.vercel.app/api?username=gabrielcastedo&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="100%" width = "50%" src="https://github-readme-stats.vercel.app/api?username=gabrielcastedo&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/gabrielcastedo/github-readme-stats">
-  <img height="100%" width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcastedo&langs_count=8&theme=calm" />
+  <img height="100%" width = "50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcastedo&langs_count=8&theme=calm" />
 </div>
   
   
